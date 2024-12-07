@@ -1,2 +1,3 @@
 # KMean-Kaggle-Submission
-I initially applied the Elbow Method to determine the optimal number of clusters, but the results were unclear. To further validate the choice, I then used the Silhouette Score and Davies-Bouldin Index, which both supported selecting 7 as the optimal number of clusters.
+I have taken 3 main attributs from the data sets so the model will be more optemized as these attributs are more important and also to overcome the pca. 
+I have also created this same model including all the attributes using PCA
